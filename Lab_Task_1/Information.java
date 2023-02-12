@@ -1,6 +1,6 @@
 /* 1. Print Your Information (Name, ID, Address, department, favorite
 game etc). */
-
+package Lab_Task_1;
 public class Information {
     public static void main(String[] args) {
         System.out.println("Name           : Mehedi Hasan Munna");

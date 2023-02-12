@@ -1,4 +1,5 @@
 /* 4. Find the area of a Circle. [Print 2 digits after decimal point]. */
+package Lab_Task_1;
 
 public class AreaOfCircle {
     public static void main(String[] args) {

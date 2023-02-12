@@ -1,5 +1,6 @@
 /*  2. Make a Simple Calculator. Find out the Summation, Subtraction,
 Multiplication and Division of two integers.  */
+package Lab_Task_1;
 
 public class SimpleCalculator {
     public static void main(String[] args) {

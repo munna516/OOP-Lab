@@ -1,3 +1,6 @@
+
+package Lab_Task_1;
+
 public class SolveEquation {
     public static void main(String[] args) {
         int A = 5;
